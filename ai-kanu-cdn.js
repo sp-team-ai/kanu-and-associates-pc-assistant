@@ -10294,7 +10294,7 @@
                                     // Image element removed, using background on container 'd' instead
                                     let f = document.createElement("div");
                                     (f.id = "name-container"),
-                                    (f.textContent = "Kanu"),
+                                    (f.textContent = "Ava"),
                                         Object.assign(f.style, {
                                             position: "absolute",
                                             bottom: "0",
